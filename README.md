@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Natalia. 
-- 🎓 Aktualnie jestem studentką na III roku studiów na kierunku Informatyka i Ekonometria na Wydziale Zarządzania Uniwersytetu Gdańskiego.
+- 🎓 Currently, I am a third-year student of Computer Science and Econometrics at the Faculty of Management at the University of Gdańsk.
 - 📫 Jak się ze mną skontaktować : natalia.goscinna@gmail.com
 
 <!---
